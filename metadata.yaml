@@ -1,5 +1,8 @@
 _repo: Pugilistica-The-History-of-British-Boxing-Volume-2-of-3-Containing-Lives-of-the-Most-Celebrat__61649
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61649-h/images/cover.jpg
 creator:
   author:
     agent_name: Miles, Henry Downes
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '50466'
     url: http://www.gutenberg.org/2009/agents/50466
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61649#Pugilistica-The-History-of-British-Boxing-Volume-2-of-3-Containing-Lives-of-the-Most-Celebrat_
 gutenberg_issued: '2020-03-21'
 gutenberg_type: Text
 identifiers:
